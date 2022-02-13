@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+remote_theme: daviddarnes/garth
 # Name of your site (displayed in the header)
 name: Your Name
 
